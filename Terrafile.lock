@@ -1,0 +1,7 @@
+---
+ec2:
+  source: terraform-aws-modules/ec2-instance/aws
+  stacks: :all
+  type: registry
+  url: https://github.com/terraform-aws-modules/terraform-aws-ec2-instance
+  sha: 4c8ffba6aaa3e4f8ccf53d97b4b0449493af4014

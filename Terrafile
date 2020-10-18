@@ -1,0 +1,2 @@
+stack_options(purge: true)
+mod "ec2", source: "terraform-aws-modules/ec2-instance/aws", stacks: :all
